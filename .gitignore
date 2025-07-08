@@ -48,3 +48,4 @@ models/production
 # Unwanted files & folders
 infrastructure/kubernetes
 infrastructure/terraform
+gdrive_sa.json
